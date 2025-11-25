@@ -32,7 +32,7 @@ Frozen Lake es un juego de cuadrícula donde un agente (Silla) debe navegar haci
 | **H** | Agujero/Lagos (Hole) |
 | **G** | Meta (Goal) |
 
-> ** Característica Crítica: Estocasticidad**  
+> Característica Crítica: Estocasticidad  
 > La propiedad `is_slippery=True` introduce un desafío crucial: al intentar moverse en una dirección, el agente solo tiene una **probabilidad** de moverse en esa dirección y una probabilidad de deslizarse a una de las dos direcciones adyacentes. Esto obliga a los algoritmos a encontrar políticas robustas, no solo un camino fijo.
 
 ---
@@ -57,7 +57,7 @@ Frozen Lake es un juego de cuadrícula donde un agente (Silla) debe navegar haci
 
 ##  4. Análisis de Resultados
 
-El informe (`informe_practica_ia.pdf`) contiene una sección exhaustiva de resultados con:
+El análisis de los resultados se encuentra en los pdfs incluidos. Son todos "el mismo" en distintos idiomas. En ellos se incluyen:
 
 ### A. Gráficas de Rendimiento
 
